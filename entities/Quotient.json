@@ -1,0 +1,9 @@
+{
+  "id": "20c6a9d9-488f-4284-882a-b2093aec0e58",
+  "name": "Quotient",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

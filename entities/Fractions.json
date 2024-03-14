@@ -1,0 +1,9 @@
+{
+  "id": "0f6c3faa-7aad-46a4-a10e-b929d31f3b35",
+  "name": "Fractions",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

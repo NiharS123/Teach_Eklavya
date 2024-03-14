@@ -1,0 +1,9 @@
+{
+  "id": "6677b85f-5490-4b22-9709-e40e34579334",
+  "name": "Percent",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

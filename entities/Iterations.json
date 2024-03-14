@@ -1,0 +1,9 @@
+{
+  "id": "da5c443c-41c5-41de-acf6-7ad87a7c4cc0",
+  "name": "Iterations",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

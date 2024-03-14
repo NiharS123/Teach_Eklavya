@@ -1,0 +1,9 @@
+{
+  "id": "dbfa2245-f687-4bb7-964a-aa7dccbe0e0f",
+  "name": "Denominator",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

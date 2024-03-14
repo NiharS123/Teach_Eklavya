@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Denominator",
+    "synonyms": [
+      "B",
+      "D",
+      "Denominator",
+      "N",
+      "Q"
+    ]
+  },
+  {
+    "value": "Numerator",
+    "synonyms": [
+      "A",
+      "C",
+      "M",
+      "Numerator",
+      "P"
+    ]
+  }
+]

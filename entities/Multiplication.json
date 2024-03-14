@@ -1,0 +1,9 @@
+{
+  "id": "9218eb6f-0342-4abd-b9a6-afa9e32837c2",
+  "name": "Multiplication",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

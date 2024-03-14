@@ -1,0 +1,9 @@
+{
+  "id": "da02e7c8-54d5-466a-9e92-016cb9cc6569",
+  "name": "Division",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

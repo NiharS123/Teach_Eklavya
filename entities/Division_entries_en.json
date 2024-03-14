@@ -1,0 +1,26 @@
+[
+  {
+    "value": "/",
+    "synonyms": [
+      "/"
+    ]
+  },
+  {
+    "value": "Division",
+    "synonyms": [
+      "Divide",
+      "Divided",
+      "Division",
+      "by",
+      "divided by",
+      "division",
+      "upon"
+    ]
+  },
+  {
+    "value": "➗",
+    "synonyms": [
+      "➗"
+    ]
+  }
+]

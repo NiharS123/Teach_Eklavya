@@ -1,0 +1,9 @@
+{
+  "id": "6bc3a122-26de-46af-bf41-b70deffd4044",
+  "name": "Numerator",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
