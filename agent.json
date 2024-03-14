@@ -1,0 +1,66 @@
+{
+  "description": "A 6th Grader who needs help for solving a problem. Happy Teaching. 😄\n\nType \u0027Eklavya\u0027 to start teaching!",
+  "language": "en",
+  "shortDescription": "",
+  "examples": "",
+  "linkToDocs": "",
+  "displayName": "Eklavya_Original",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "shishya-e1404",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "providerId": "",
+      "authorizationUrl": "",
+      "tokenUrl": "",
+      "scopes": "",
+      "privacyPolicyUrl": "",
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "env": "",
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": false,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "Asia/Colombo",
+  "webhook": {
+    "url": "https://console.actions.google.com/project/small-talk-9bc4c/actions/",
+    "username": "1Nihar123",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [
+    "hi",
+    "mr"
+  ],
+  "enableOnePlatformApi": true,
+  "onePlatformApiVersion": "v2beta1",
+  "secondaryKey": "e508c9576d164bc5a4d101111e22283a",
+  "analyzeQueryTextSentiment": true,
+  "enabledKnowledgeBaseNames": [
+    "projects/shishya-e1404/knowledgeBases/MTM5NTM2ODg3NjI4NDk0Mjc0NTY"
+  ],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false,
+  "baseActionPackagesUrl": "",
+  "enableSpellCorrection": false,
+  "avatarUri": "https://storage.googleapis.com/cloudprod-apiai/5c0e8863-302b-43af-b9b7-348150d5071e_x.png"
+}
