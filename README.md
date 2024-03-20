@@ -26,7 +26,7 @@
 
   <p align="center">
     Eklavya is a chatbot to which you can teach to learn and revise your knowledge. Currently, Eklavya is configured for the topic of percentage, but we plan to expand in other domains, with your help.
-    
+  </p>
 </div>
 
 # Teach_Eklavya
@@ -68,4 +68,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/sensint/Servo_Haptics.svg?style=for-the-badge
+[contributors-url]: https://github.com/NiharS123/Teach_Eklavya/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sensint/Servo_Haptics.svg?style=for-the-badge
+[forks-url]: https://github.com/NiharS123/Teach_Eklavya/network/members
+[stars-shield]: https://img.shields.io/github/stars/sensint/Servo_Haptics.svg?style=for-the-badge
+[stars-url]: https://github.com/NiharS123/Teach_Eklavya/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sensint/Servo_Haptics.svg?style=for-the-badge
+[issues-url]: https://github.com/NiharS123/Teach_Eklavya/issues
+[license-shield]: https://img.shields.io/github/license/sensint/Servo_Haptics.svg?style=for-the-badge
+[license-url]: https://github.com/NiharS123/Teach_Eklavya/blob/master/LICENSE
 
