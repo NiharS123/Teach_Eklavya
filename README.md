@@ -29,10 +29,29 @@
   </p>
 </div>
 
-# Teach_Eklavya
-Eklavya is a teachable chatbot to which you can teach to learn :)
+## Getting started with Eklavya
 
-## Getting started
+1. Download the code from the GitHub website or clone repo using your favorite git-client software or with the following command:
+
+   ```sh
+   git clone https://github.com/NiharS123/Teach_Eklavya.git
+   ```
+2. Unzip the intents.zip file from the intents folder **and delete/ move the original intents.zip file to some other folder**.
+3. Create a zip file of the folder which contains:
+   1. entitites folder with files of .json format
+   2. intents folder with files of .json format
+   3. agent.json file
+   4. package.json file 
+4. Open [Google Dialogflow](https://dialogflow.cloud.google.com/) and register with your Google Account.
+5. Import the cloned and zipped library in dialogflow.
+
+## Editing prompts, responses of Eklavya
+
+## Deploying Eklavya
+
+## Editing and Creating your own agent
+
+## Deploying your agent
 
 ## Contributing
 
@@ -68,14 +87,14 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sensint/Servo_Haptics.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/NiharS123/Teach_Eklavya.svg?style=for-the-badge
 [contributors-url]: https://github.com/NiharS123/Teach_Eklavya/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sensint/Servo_Haptics.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/NiharS123/Teach_Eklavya.svg?style=for-the-badge
 [forks-url]: https://github.com/NiharS123/Teach_Eklavya/network/members
-[stars-shield]: https://img.shields.io/github/stars/sensint/Servo_Haptics.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/NiharS123/Teach_Eklavya.svg?style=for-the-badge
 [stars-url]: https://github.com/NiharS123/Teach_Eklavya/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sensint/Servo_Haptics.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/NiharS123/Teach_Eklavya.svg?style=for-the-badge
 [issues-url]: https://github.com/NiharS123/Teach_Eklavya/issues
-[license-shield]: https://img.shields.io/github/license/sensint/Servo_Haptics.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/NiharS123/Teach_Eklavya.svg?style=for-the-badge
 [license-url]: https://github.com/NiharS123/Teach_Eklavya/blob/master/LICENSE
 
